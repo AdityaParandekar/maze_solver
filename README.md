@@ -8,4 +8,15 @@ This package has 3 main scripts :
 
 
 Sample output of the path_planner node 
-![sample path](./src/sample_path.png)
+
+<p align="center">
+    <img src="./src/assests/sample_path.png" width="389" height="324">  
+</p>
+
+
+Final Result on running:
+> roslaunch maze_solver omnibase_maze.launch
+
+<p align="center">
+    <img src="./src/assests/final_run.png">
+</p>
